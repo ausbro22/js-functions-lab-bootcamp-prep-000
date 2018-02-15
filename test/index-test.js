@@ -8,8 +8,8 @@ describe('functions', () => {
   })
 
   describe('happyHolidaysTo(name)', () => {
-    it('returns "Happy holidays, you!"', () => {
-      expect(happyHolidaysTo('you')).toEqual('Happy holidays, you'))
+    it('returns "Happy holidays, ${name}!"', () => {
+      expect(happyHolidaysTo('you')).toEqual('Happy holidays, you!')
     })
   })
 
