@@ -1,6 +1,6 @@
 var name : "you";
 var holiday : "Independence Day": "Mother\'s Day";
-
+var days : 
 function happyHolidays(string) {
     return "Happy holidays!"
     }
