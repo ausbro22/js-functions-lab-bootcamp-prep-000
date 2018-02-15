@@ -1,7 +1,6 @@
 function happyHolidays(string) {
     return "Happy holidays!"
     }
-function happyHolidaysTo(name) {
-  console.log(you)
+function happyHolidaysTo(you) {
     return "Happy holidays, ${name}!"; 
 }
