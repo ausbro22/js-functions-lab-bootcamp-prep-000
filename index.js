@@ -8,9 +8,9 @@ function happyHolidays(string) {
 
 function happyHolidaysTo(name, holiday) {
     if(name) {
-      return "Happy holidays, (name)!"
+      return "Happy holidays,"${name}"!"
 } else if(name, holiday) {
-    return "Happy ${holiday}, ${name}!"
+    return "Happy "${holiday}", "${name}"!"
   }
 
 }
