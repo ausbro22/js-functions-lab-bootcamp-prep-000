@@ -1,5 +1,5 @@
 var name : "you";
-var holiday : "Independence Day": Mother;
+var holiday : "Independence Day": "Mother\'s Day";
 
 function happyHolidays(string) {
     return "Happy holidays!"
